@@ -46,6 +46,8 @@ app.use(morgan('tiny'));
 //         age: 29,
 //     });
 
+
+
 //     let language = new Language({
 //         title: "EN",
 //         user: _id,
@@ -58,6 +60,7 @@ app.use(morgan('tiny'));
 // }
 
 // add();
+// // bcrypt.compare(req.password, user.password);
 
 
 // Inject routes in express app
